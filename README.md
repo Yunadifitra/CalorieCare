@@ -11,7 +11,7 @@ code: tsc --init
 
 - Jalankan kompiler TypeScript untuk mentranspilasi kode TypeScript Anda ke JavaScript. Ini akan menghasilkan file JavaScript berdasarkan kode TypeScript Anda. 
 Jalankan:
-tsc
+<br> tsc
 Kalau tidak bisa: npx tsc 
 
 
