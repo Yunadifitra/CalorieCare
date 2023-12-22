@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CalorieCare</string>
+    <string name="hello">Hi there!</string>
+    <string name="morning">Good Morning</string>
+    <string name="welcome">Welcome</string>
+    <string name="login_screen">Login to your account</string>
+    <string name="register_screen">Create an account</string>
+    <string name="register">Create account</string>
+    <string name="login">Login</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="terms_and_condition">By continuing, you accept our Privacy and Terms of use</string>
+    <string name="go_to_login">Already have an account? Login</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="predict">Prediksi</string>
+    <string name="food_name">Nama makanan</string>
+    <string name="view_all">View All</string>
+    <string name="schedules">Schedules</string>
+    <string name="schedule_your_plan">Let\'s schedule your plan</string>
+</resources>
